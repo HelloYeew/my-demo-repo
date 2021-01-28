@@ -1,4 +1,4 @@
-# my-demo-repo
+# My Demo GitHub Repositories In SKE
 Demo Git repo in Computer Programming II in SKE
 
 "ผมไม่ชอบเผด็จการทหาร"
